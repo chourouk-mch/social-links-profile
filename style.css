@@ -11,7 +11,7 @@ main{
   align-items:center;
   flex-direction:column;
   padding:20px;
-  margin:5% 30%;
+  margin:auto 30%;
   border-radius:5px;
   box-shadow:2px 2px 2px 0 #3D3B40;
  
@@ -111,4 +111,5 @@ div a{
 }
 .insta:hover{
   transform:scale(1.1);
+
 }
