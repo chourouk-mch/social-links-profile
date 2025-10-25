@@ -57,7 +57,7 @@ div a{
 }
 .github:hover{
   transform:scale(1.1);
- color:#B0D032;
+ background-color:#B0D032;
 }
 .FrM{
     background-color:#3D3B40;
@@ -71,7 +71,8 @@ div a{
 }
 .FrM:hover{
   transform:scale(1.1);
- color:#B0D032;
+ background-color:#B0D032;
+
 }
 .fb{
     background-color:#3D3B40;
@@ -86,7 +87,7 @@ div a{
 }
 .fb:hover{
   transform:scale(1.1);
- color:#B0D032;
+ background-color:#B0D032;
 }
 .tlg{
     background-color:#3D3B40;
@@ -100,7 +101,7 @@ div a{
 }
 .tlg:hover{
   transform:scale(1.1);
- color:#B0D032;
+ background-color:#B0D032;
 }
 .insta{
   background-color:#3D3B40;
@@ -115,6 +116,7 @@ div a{
 }
 .insta:hover{
   transform:scale(1.1);
-color:#B0D032;
+background-color:#B0D032;
 }
+
 
