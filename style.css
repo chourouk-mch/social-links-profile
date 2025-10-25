@@ -11,7 +11,7 @@ main{
   align-items:center;
   flex-direction:column;
   padding:20px;
-  margin:auto 30%;
+  margin:5% 30%;
   border-radius:5px;
   box-shadow:2px 2px 2px 0 #3D3B40;
  
@@ -118,5 +118,6 @@ div a{
   transform:scale(1.1);
 background-color:#B0D032;
 }
+
 
 
